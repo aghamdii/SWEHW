@@ -1,0 +1,66 @@
+.kfupm-logo {
+  margin: 50px 30px;
+}
+.title {
+  color: rgb(9, 126, 9);
+}
+.site-text {
+  font-size: 12px;
+}
+/* NavBar */
+.navbar {
+  background-color: rgb(9, 126, 9);
+}
+
+.nav-link {
+  color: white;
+}
+.nav-link:visited {
+  color: white;
+}
+.nav-link:hover {
+  color: rgb(141, 226, 141);
+}
+/* First section */
+.text-on-picture {
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  color: white;
+}
+
+#kfupm-picture {
+  width: 100%;
+}
+/* Second section */
+
+.second-first-col {
+  background: rgb(9, 126, 9);
+  color: white;
+  padding: 25px;
+}
+.second-second-col {
+  padding: 25px;
+}
+.second-third-col {
+  padding: 25px;
+}
+
+/* Third section */
+.third-first-col {
+  padding: 25px;
+}
+
+.card-image {
+  height: 150px;
+  width: 150px;
+}
+
+.vision-text {
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 20px;
+}
+.page-footer {
+  background-color: rgb(9, 126, 9);
+}
